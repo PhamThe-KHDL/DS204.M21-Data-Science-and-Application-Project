@@ -1,6 +1,13 @@
 # DS204.M21 - Data Science and Application Project
 DS204.M21 - Đồ Án Khoa Học Dữ Liệu và Ứng Dụng
 
+**Yêu Cầu:**
+- ội nị ạn A, A*.
+- Tạp cí Q1.
+- Top 10 một lĩn vực con teo google scholar.
+
+
+## Nội Dun
 
 
 ## Tham Khảo Thêm
