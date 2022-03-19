@@ -2,12 +2,12 @@
 DS204.M21 - Đồ Án Khoa Học Dữ Liệu và Ứng Dụng
 
 **Yêu Cầu:**
-- ội nị ạn A, A*.
-- Tạp cí Q1.
-- Top 10 một lĩn vực con teo google scholar.
+- Hội nghị hạng A, A*.
+- Tạp chí Q1.
+- Top 10 một lĩnh vực con theo google scholar.
 
 
-## Nội Dun
+## Nội Dung
 
 
 ## Tham Khảo Thêm
