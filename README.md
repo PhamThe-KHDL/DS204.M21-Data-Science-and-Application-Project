@@ -9,6 +9,7 @@ DS204.M21 - Đồ Án Khoa Học Dữ Liệu và Ứng Dụng
 
 ## Nội Dung
 
+- Paper: [Novel Slot Detection: A Benchmark for Discovering Unknown Slot Types in the Task-Oriented Dialogue System](https://aclanthology.org/2021.acl-long.270/)
 
 ## Tham Khảo Thêm
 
