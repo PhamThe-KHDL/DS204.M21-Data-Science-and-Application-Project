@@ -4,6 +4,9 @@ DS204.M21-Đồ Án Khoa Học Dữ Liệu và Ứng Dụng
 
 **Giảng Viên:** 
 - ThS Nguyễn Văn Kiệt
+
+
+
 **Nhóm SVTH:**
 - Phạm Đức Thể
 - Võ Minh Trí
@@ -11,6 +14,7 @@ DS204.M21-Đồ Án Khoa Học Dữ Liệu và Ứng Dụng
 
 
 
+## Novel Slot Detection Trong Hệ Thống Đối Thoại Hướng Nhiệm Vụ
 
 
 
@@ -23,8 +27,13 @@ DS204.M21-Đồ Án Khoa Học Dữ Liệu và Ứng Dụng
 
 
 
+## Thực hiện
 
+```
+Phạm Đức Thể
 
+Thể ~/~
+```
 
 
 
