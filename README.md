@@ -14,8 +14,8 @@ DS204.M21-Đồ Án Khoa Học Dữ Liệu và Ứng Dụng
 - Trần Triệu Vũ
 
 
-
-
+Link paper: [Novel Slot Detection: A Benchmark for Discovering Unknown Slot Types in the Task-Oriented Dialogue System](https://arxiv.org/abs/2105.14313)
+Github: [ACL2021-Novel-Slot-Detection](https://github.com/ChestnutWYN/ACL2021-Novel-Slot-Detection)
 
 
 
